@@ -3,7 +3,7 @@ _ReSharper.Caches*
 *.csproj
 *.meta
 Library/*
-ProjectSettings/*
+ProjectSettings/*.txt
 obj/*
 Temp/*
 *.sln
